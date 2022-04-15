@@ -3,8 +3,10 @@
  I'm a Web Developer From the Philiipines <img width="20px" src="https://images.emojiterra.com/twitter/v14.0/512px/1f1f5-1f1ed.png">
 </p>
 
-<h3>About Me</h3>
  <img width="350px" align="right" src="https://c.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
+
+<h3>About Me</h3>
+
  <li>👩🏻‍💻 FRONT-END WEB DEVELOPER</li>
  <li>👔 UI/UX DESIGNER</li>
  <li>🧔🏽 GRAPHIC ARTIST</li>
