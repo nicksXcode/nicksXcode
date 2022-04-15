@@ -3,7 +3,7 @@
  I'm a Web Developer From the Philiipines <img width="20px" src="https://images.emojiterra.com/twitter/v14.0/512px/1f1f5-1f1ed.png">
 </p>
 
- <img width="350px" align="right" src="https://c.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
+ <img width="290px" align="right" src="https://c.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
 
 <h3>About Me</h3>
 
