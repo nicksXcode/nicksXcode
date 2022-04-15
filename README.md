@@ -4,11 +4,11 @@
 </p>
 
 <h3>About Me</h3>
-
+ <img width="350px" align="right" src="https://c.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
  <li>👩🏻‍💻 FRONT-END WEB DEVELOPER</li>
  <li>👔 UI/UX DESIGNER</li>
  <li>🧔🏽 GRAPHIC ARTIST</li>
-<img width="400px" align="right" src="https://c.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
+ 
 <h3>Languages and Tools</h3>
 <hr>
 <p align="left">
