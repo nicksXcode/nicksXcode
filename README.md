@@ -5,10 +5,10 @@
  <li>👩🏻‍💻 FRONT-END WEB DEVELOPER</li>
  <li>👔 UI/UX DESIGNER</li>
  <li>🧔🏽 GRAPHIC ARTIST</li>
- 
+<img width="300px" align="right" src="https://c.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
 <h3>Languages and Tools</h3>
 <hr>
 <p align="left">
-<img width="100px" src="https://img.icons8.com/color/344/html-5--v1.png" alt="HTML">
-<img width="100px" src="https://img.icons8.com/color/344/css3.png" alt="CSS">
+<img width="60px" src="https://img.icons8.com/color/344/html-5--v1.png" alt="HTML">
+<img width="60px" src="https://img.icons8.com/color/344/css3.png" alt="CSS">
 </p>
